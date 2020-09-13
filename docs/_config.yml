@@ -21,7 +21,7 @@
 title: Hoang Tech Blog
 # email: blacksun174 (At_Mark) gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-　日々気づいたことを綴るブログです。
+  日々気づいた技術的なことを綴るブログです。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: blacksun174
