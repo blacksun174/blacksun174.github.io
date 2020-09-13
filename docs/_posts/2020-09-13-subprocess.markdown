@@ -6,11 +6,11 @@ categories: scope
 ---
 システムに対してシェルコマンドを実行したい時に直接実行するのではなく、ライブラリを介してやった方がいいです。
 
-例えば、
+例えば、pythonでは
 ```python
 
 import os
 
-os.command('remove -r dir')
+os.system('remove -r dir')
 ```
 とかやらない方がいいです。
