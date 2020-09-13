@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "プログラミングのscopeについて"
+title:  "About scope"
 date:   2020-09-13 22:11:01 +0900
 categories: scope
 ---
