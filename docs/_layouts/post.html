@@ -1,1 +1,11 @@
-{% include disqus_comments.html %}
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    {{ content }}
+		{% include disqus_comments.html %}
+  </body>
+</html>
