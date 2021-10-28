@@ -13,6 +13,7 @@ permalink: /about/
 - 2013~2017 同志社大学理工学部情報工学科
 - 2017~2019 奈良先端科学技術大学院大学情報科学研究科
 
+
 ## Skills
 - Python, Typescript, java, shell script
 - AWS(ECS, Glue, Lambda, Sagemaker)
@@ -20,9 +21,11 @@ permalink: /about/
 - Docker
 - CI/CD
 
+
 ## Certifications
 - TOEIC 720
 - 日本語能力試験N1
+
 
 ## Professional Experience
 - 2018/3 ~ 2018/5   Lineチャットに自動翻訳ボットを実装（Microsoft翻訳API使用）
@@ -38,7 +41,7 @@ permalink: /about/
 - 2021/7 ~ 現在     記事入稿システム・広告配信システムを開発運用
 
 ## SNS
-[LinkedIn](https://www.linkedin.com/in/hoang-nguyen-936014b0/)
-[Wantedly](https://www.wantedly.com/id/hhoang_nguyen)
+- [LinkedIn](https://www.linkedin.com/in/hoang-nguyen-936014b0/)
+- [Wantedly](https://www.wantedly.com/id/hhoang_nguyen)
 
 Nguyen Hoang
