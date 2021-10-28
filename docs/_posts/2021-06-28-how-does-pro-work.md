@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "プロとして仕事をする"
-date:   2021-06-25 18:30:00 +0900
+date:   2021-06-28 18:30:00 +0900
 categories: program, maintenance
 ---
 # プロとして仕事をする
